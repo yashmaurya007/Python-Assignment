@@ -15,3 +15,15 @@ print("Divide =", divide)
 
 
 
+fn1 = (input("enter first name :" 
+""))
+fn2 = (input("enter last name "))
+
+print( "Hello ,", fn1 + fn2,"! Welcome to  the python program ")
+
+
+
+
+
+
+
