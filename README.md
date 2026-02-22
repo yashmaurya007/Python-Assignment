@@ -1,4 +1,5 @@
 # Python-Assignment
+ #question 1 
 
 f_1 = (float(input("enter first number  :")))
 f_2 = (float(input("enter second number")))
@@ -13,7 +14,7 @@ print("Subtraction = ", sub)
 print("Multiplication = ", mul )
 print("Divide =", divide)
 
-
+#question 2
 
 fn1 = (input("enter first name :" 
 ""))
